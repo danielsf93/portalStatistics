@@ -20,7 +20,7 @@
 			<h2>{translate key="about.aboutContext"}</h2>
 			{$currentContext->getLocalizedData('description')}
 
-			<h1>agora vai</h1>
+		
 		</section>
 	{/if}
 
@@ -54,6 +54,26 @@
 			</div><!-- .more -->
 		</section>
 	{/if}
+
+
+
+<section class="general_statistics">
+			<h1>Estatísticas Gerais</h1>
+			
+		
+
+
+
+		<b>{$totalRevistas}</b> {translate key="plugins.generic.portalStatistics.journals"}<br>
+        <b>{$totalIssues}</b> {translate key="plugins.generic.portalStatistics.issues"}<br>
+        <b>{$totalArticles}</b> {translate key="plugins.generic.portalStatistics.articles"}<br>
+        <b>{$totalDownloads}</b> {translate key="plugins.generic.portalStatistics.downloads"}<br>
+        <b>{$totalAcess}</b> {translate key="plugins.generic.portalStatistics.hits"}
+		</section>
+
+
+
+
 
 	{* Latest issue *}
 	{if $issue}

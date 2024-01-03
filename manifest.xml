@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <primary_locale>pt_BR</primary_locale>
+  <plugin
+    id="portalStatistics"
+    system="3.2.1-1"
+    package="portalStatistics"
+    directory="portalStatistics"
+    name="portalStatistics"
+    description="plugin para a revista estatisticas contendo todos os numeros"
+    version="1.0.0"
+    date="2024-01-03"
+    author="Daniel Silva Ferreira"
+    email="daniel.ferreira@abcd.usp.br"
+    url="https://github.com/danielsf93/portalStatistics"
+  >
+  </plugin>
+</manifest>

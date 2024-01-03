@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-03 19:54+0000\n"
+"Last-Translator: Daniel Silva Ferreira <daniel.ferreira@abcd.usp.br>\n"
+"Language-Team: Portuguese (Brazil) <http://translate.pkp.sfu.ca/projects/ojs/"
+"generic-portalStatistics/pt_BR/>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.generic.portalStatistics.displayName"
+msgstr "Estatísticas Gerais do Portal"
+
+msgid "plugins.generic.portalStatistics.description"
+msgstr "plugin para a revista estatisticas contendo todos os numeros"
+
+msgid "plugins.generic.portalStatistics.title"
+msgstr "Estatísticas Gerais:"
+
+msgid "plugins.generic.portalStatistics.journals"
+msgstr "Revistas"
+
+msgid "plugins.generic.portalStatistics.issues"
+msgstr "Fascículos"
+
+msgid "plugins.generic.portalStatistics.articles"
+msgstr "Artigos"
+
+msgid "plugins.generic.portalStatistics.downloads"
+msgstr "Downloads"
+
+msgid "plugins.generic.portalStatistics.hits"
+msgstr "Acessos"
